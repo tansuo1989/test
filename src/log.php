@@ -1,6 +1,6 @@
 <?php
 
-namespace tansuo19test\log;
+namespace tansuo19test;
 
 class log{
     public function __construct(){
