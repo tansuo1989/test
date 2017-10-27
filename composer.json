@@ -9,7 +9,9 @@
             "email": "huangui9@qq.com"
         }
     ],
-    "auto":{
-        "file":"src/fun.php"
+     "autoload": {
+        "psr-4": {
+            "tansuo19test\\": "src/"
+        }
     }
 }
