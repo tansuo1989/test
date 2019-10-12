@@ -1,0 +1,17 @@
+{
+    "name": "tansuo19/test",
+    "description": "just test",
+    "license": "mit",
+    "version":"0.1.2",
+    "authors": [
+        {
+            "name": "tansuo1989",
+            "email": "huangui9@qq.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "tansuo19test\\": "src/"
+        }
+    }
+}
